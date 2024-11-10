@@ -1,0 +1,5 @@
+co\unicauca\adapter\CustomCollection.class
+co\unicauca\adapter\UnmodifiableCollectionAdapter.class
+co\unicauca\adapter\Adapter.class
+co\unicauca\adapter\CollectionUtils.class
+co\unicauca\adapter\Main.class
